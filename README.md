@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Jhon Joshua Abutan
 
--An aspiring **Web Developer** passionate about creating clean, modern, and responsive websites.
+An aspiring **Web Developer** passionate about creating clean, modern, and responsive websites.
 -Currently pursuing a degree in **Information Technology** (Web Development major).
 -Learning and building with **React, Tailwind, PHP, and MySQL**.
 -Exploring open-source, freelancing, and projects that solve real-world problems.
@@ -14,4 +14,4 @@
 ### 🌐 Connect With Me 
 - www.linkedin.com/in/jhonjoshua
 - https://jhonjoshuaabutan.vercel.app/
-- 📧 Email: sjosh2503@gmail.com
+- sjosh2503@gmail.com
