@@ -1,9 +1,9 @@
 ## Hi there 👋, I’m Jhon Joshua Abutan
 
 An aspiring **Web Developer** passionate about creating clean, modern, and responsive websites.
--Currently pursuing a degree in **Information Technology** (Web Development major).
--Learning and building with **React, Tailwind, PHP, and MySQL**.
--Exploring open-source, freelancing, and projects that solve real-world problems.
+- Currently pursuing a degree in **Information Technology** (Web Development major).
+- Learning and building with **React, Tailwind, PHP, and MySQL**.
+- Exploring open-source, freelancing, and projects that solve real-world problems.
 
 ### 🛠️ Tech Stack & Tools 
 
